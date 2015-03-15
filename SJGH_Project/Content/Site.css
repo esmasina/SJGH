@@ -754,3 +754,26 @@ tr.pager td {
             margin: 0;
         }
 }
+
+
+/*CMS Home Features List
+    ----------------------------------------------------------*/
+   .cmsfeatures {
+       list-style:none;
+       display: inline-block;
+       margin-left: 30px;
+   }
+
+   .cmsfeatures li {
+       float: left;
+       margin: 10px 40px 10px 40px;
+       padding: 10px 40px 10px 40px;
+       width: 64px;
+       display: block;
+       text-align: center;
+   }
+   .cmsfeatures li a {
+       text-decoration: none;
+       position: relative;
+       
+   }
